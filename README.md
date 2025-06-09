@@ -6,3 +6,8 @@
 
 
 ### 2024
+
+
+### 2023
+
+[为什么我要坚决打击微软技术圈的黑恶势力](https://github.com/shnug/jobs/issues/71)
