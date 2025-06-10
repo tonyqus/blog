@@ -8,10 +8,16 @@
 - [不值得学习的微软最有价值专家（一）：刘钰](https://github.com/shnug/jobs/issues/56)
 - [不值得学习的微软最有价值专家（二）：贺家乐Token](https://github.com/shnug/jobs/issues/57)
 - [苏震巍吹过的那些牛](https://github.com/shnug/jobs/issues/51)
+- [苏州盛派网络，请放过可怜的程序员前员工](https://github.com/shnug/jobs/issues/55)
+- 
 
 ### 2024
+- [为什么说微软Reactor上海是个巨大错误](https://github.com/shnug/jobs/issues/62)
+- [全面聊一聊NCC的刘怡Alexinea](https://github.com/shnug/jobs/issues/66)
+- [刘怡Alexinea这几年对Tony Qu持续的谩骂和诽谤](https://github.com/shnug/jobs/issues/68)
 
 
 ### 2023
-
-[为什么我要坚决打击微软技术圈的黑恶势力](https://github.com/shnug/jobs/issues/71)
+- [中国.NET市场路在何方（一）](https://github.com/shnug/jobs/issues/59)
+- [中国.NET市场路在何方（二）](https://github.com/shnug/jobs/issues/60)
+- [为什么我要坚决打击微软技术圈的黑恶势力](https://github.com/shnug/jobs/issues/71)
