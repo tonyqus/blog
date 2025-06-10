@@ -15,7 +15,7 @@
 - [为什么说微软Reactor上海是个巨大错误](https://github.com/shnug/jobs/issues/62)
 - [全面聊一聊NCC的刘怡Alexinea](https://github.com/shnug/jobs/issues/66)
 - [刘怡Alexinea这几年对Tony Qu持续的谩骂和诽谤](https://github.com/shnug/jobs/issues/68)
-
+- [为什么微软技术不值得追新？](https://github.com/shnug/jobs/issues/69)
 
 ### 2023
 - [中国.NET市场路在何方（一）](https://github.com/shnug/jobs/issues/59)
