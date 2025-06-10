@@ -10,11 +10,11 @@
 - [苏震巍吹过的那些牛](https://github.com/shnug/jobs/issues/51)
 - [苏州盛派网络，请放过可怜的程序员前员工](https://github.com/shnug/jobs/issues/55)
 - [中国.NET程序员下一步该怎么走？](https://github.com/shnug/jobs/issues/58)
-
-### 2024
 - [为什么说微软Reactor上海是个巨大错误](https://github.com/shnug/jobs/issues/62)
 - [全面聊一聊NCC的刘怡Alexinea](https://github.com/shnug/jobs/issues/66)
 - [刘怡Alexinea这几年对Tony Qu持续的谩骂和诽谤](https://github.com/shnug/jobs/issues/68)
+
+### 2024
 - [为什么微软技术不值得追新？](https://github.com/shnug/jobs/issues/69)
 
 ### 2023
