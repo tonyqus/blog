@@ -14,6 +14,8 @@
 - [全面聊一聊NCC的刘怡Alexinea](https://github.com/shnug/jobs/issues/66)
 - [刘怡Alexinea这几年对Tony Qu持续的谩骂和诽谤](https://github.com/shnug/jobs/issues/68)
 - [微软并没有大面积使用.NET Core](https://github.com/shnug/jobs/issues/61)
+- [.NET社区打假：Senparc.Weixin到底流行吗？](https://github.com/shnug/jobs/issues/53)
+- [.NET社区打假：苏州微软技术俱乐部早已不存在](https://github.com/shnug/jobs/issues/52)
 
 ### 2024
 - [为什么微软技术不值得追新？](https://github.com/shnug/jobs/issues/69)
